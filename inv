@@ -1,29 +1,29 @@
 [FRONTEND]
-dev-frontend.devopsb69.online
+dev-frontend.Ramdevopz.online
 
 [USER]
-dev-user.devopsb69.online
+dev-user.Ramdevopz.online
 
 [CATALOGUE]
-dev-catalogue.devopsb69.online
+dev-catalogue.Ramdevopz.online
 
 [CART]
-dev-cart.devopsb69.online
+dev-cart.Ramdevopz.online
 
 [MONGODB]
-dev-mongodb.devopsb69.online
+dev-mongodb.Ramdevopz.online
 
 [REDIS]
-dev-redis.devopsb69.online
+dev-redis.Ramdevopz.online
 
 [MYSQL]
-dev-mysql.devopsb69.online
+dev-mysql.Ramdevopz.online
 
 [SHIPPING]
-dev-shipping.devopsb69.online
+dev-shipping.Ramdevopz.online
 
 [PAYMENT]
-dev-payment.devopsb69.online
+dev-payment.Ramdevopz.online
 
 [RABBITMQ]
-dev-rabbitmq.devopsb69.online
+dev-rabbitmq.Ramdevopz.online

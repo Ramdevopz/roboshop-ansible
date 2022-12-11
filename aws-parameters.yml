@@ -8,28 +8,28 @@
         region: "us-east-1"
       loop:
         - {name: "param.dev.catalogue.MONGO", value: "true"}
-        - {name: "param.dev.catalogue.MONGO_ENDPOINT", value: "dev-mongodb.devopsb69.online"}
-        - {name: "param.dev.catalogue.MONGO_URL", value: "mongodb://dev-mongodb.devopsb69.online:27017/catalogue"}
+        - {name: "param.dev.catalogue.MONGO_ENDPOINT", value: "dev-mongodb.Ramdevopz.online"}
+        - {name: "param.dev.catalogue.MONGO_URL", value: "mongodb://dev-mongodb.Ramdevopz.online:27017/catalogue"}
         - {name: "param.dev.user.MONGO", value: "true"}
-        - {name: "param.dev.frontend.CATALOGUE_URL", value: "http://dev-catalogue.devopsb69.online:8080/"}
-        - {name: "param.dev.frontend.USER_URL", value: "http://dev-user.devopsb69.online:8080/"}
-        - {name: "param.dev.frontend.CART_URL", value: "http://dev-cart.devopsb69.online:8080/"}
-        - {name: "param.dev.frontend.SHIPPING_URL", value: "http://dev-shipping.devopsb69.online:8080/"}
-        - {name: "param.dev.frontend.PAYMENT_URL", value: "http://dev-payment.devopsb69.online:8080/"}
+        - {name: "param.dev.frontend.CATALOGUE_URL", value: "http://dev-catalogue.Ramdevopz.online:8080/"}
+        - {name: "param.dev.frontend.USER_URL", value: "http://dev-user.Ramdevopz.online:8080/"}
+        - {name: "param.dev.frontend.CART_URL", value: "http://dev-cart.Ramdevopz.online:8080/"}
+        - {name: "param.dev.frontend.SHIPPING_URL", value: "http://dev-shipping.Ramdevopz.online:8080/"}
+        - {name: "param.dev.frontend.PAYMENT_URL", value: "http://dev-payment.Ramdevopz.online:8080/"}
         - {name: "param.dev.user.MONGO", value: "true"}
-        - {name: "param.dev.user.MONGO_ENDPOINT", value: "dev-mongodb.devopsb69.online"}
-        - {name: "param.dev.user.MONGO_URL", value: "mongodb://dev-mongodb.devopsb69.online:27017/users"}
-        - {name: "param.dev.user.REDIS_HOST", value: "dev-redis.devopsb69.online"}
-        - {name: "param.dev.cart.REDIS_HOST", value: "dev-redis.devopsb69.online"}
-        - {name: "param.dev.cart.CATALOGUE_HOST", value: "dev-catalogue.devopsb69.online"}
+        - {name: "param.dev.user.MONGO_ENDPOINT", value: "dev-mongodb.Ramdevopz.online"}
+        - {name: "param.dev.user.MONGO_URL", value: "mongodb://dev-mongodb.Ramdevopz.online:27017/users"}
+        - {name: "param.dev.user.REDIS_HOST", value: "dev-redis.Ramdevopz.online"}
+        - {name: "param.dev.cart.REDIS_HOST", value: "dev-redis.Ramdevopz.online"}
+        - {name: "param.dev.cart.CATALOGUE_HOST", value: "dev-catalogue.Ramdevopz.online"}
         - {name: "param.dev.cart.CATALOGUE_PORT", value: "8080"}
         - {name: "param.dev.mysql.ROOT_PASSWORD", value: "RoboShop@1"}
-        - {name: "param.dev.shipping.DB_HOST", value: "dev-mysql.devopsb69.online"}
-        - {name: "param.dev.shipping.CART_ENDPOINT", value: "dev-cart.devopsb69.online:8080"}
+        - {name: "param.dev.shipping.DB_HOST", value: "dev-mysql.Ramdevopz.online"}
+        - {name: "param.dev.shipping.CART_ENDPOINT", value: "dev-cart.Ramdevopz.online:8080"}
         - {name: "param.dev.shipping.ROOT_PASSWORD", value: "RoboShop@1"}
-        - {name: "param.dev.payment.USER_HOST", value: "dev-user.devopsb69.online"}
-        - {name: "param.dev.payment.CART_HOST", value: "dev-cart.devopsb69.online"}
-        - {name: "param.dev.payment.AMQP_HOST", value: "dev-rabbitmq.devopsb69.online"}
+        - {name: "param.dev.payment.USER_HOST", value: "dev-user.Ramdevopz.online"}
+        - {name: "param.dev.payment.CART_HOST", value: "dev-cart.Ramdevopz.online"}
+        - {name: "param.dev.payment.AMQP_HOST", value: "dev-rabbitmq.Ramdevopz.online"}
         - {name: "param.dev.payment.AMQP_USER", value: "roboshop"}
         - {name: "param.dev.payment.AMQP_PASS", value: "roboshop123"}
         - {name: "param.dev.rabbitmq.AMQP_PASS", value: "roboshop123"}
