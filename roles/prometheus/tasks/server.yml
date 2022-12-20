@@ -4,7 +4,7 @@
     dest: /opt/prometheus/record_rules.yml
 
 - name: Copy Alert Rules
-  ansible.builtin.tcopy:
+  ansible.builtin.copy:
     src: alert_rules.yml
     dest: /opt/prometheus/alert_rules.yml
 
