@@ -1,10 +1,10 @@
 - name: Copy Record Rules
-  ansible.builtin.template:
+  ansible.builtin.copy:
     src: record_rules.yml
     dest: /opt/prometheus/record_rules.yml
 
 - name: Copy Alert Rules
-  ansible.builtin.template:
+  ansible.builtin.tcopy:
     src: alert_rules.yml
     dest: /opt/prometheus/alert_rules.yml
 
